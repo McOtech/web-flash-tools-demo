@@ -1,0 +1,31 @@
+{
+ "name": "Timothy Mwala",
+ "image": "assets/img/profile-img.jpg",
+ "occupation": "Embeded Systems Developer",
+ "binaries": [
+  {
+   "name": "BMP 180 Sensor",
+   "description": "Decsription goes here",
+   "manifest": "bin/serial-hello-world/manifest.json",
+   "repository": "https://"
+  }
+ ],
+ "socials": [
+  {
+   "name": "twitter",
+   "link": "#"
+  },
+  {
+    "name": "facebook",
+    "link": "#"
+  },
+  {
+    "name": "github",
+    "link": "#"
+  },
+  {
+    "name": "linkedin",
+    "link": "#"
+  }
+ ]
+}
